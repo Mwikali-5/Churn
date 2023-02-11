@@ -10,7 +10,7 @@ This project aims to predict whether a customer will ("soon") stop doing busines
 
 Build a classifier model to predict whether a customer will ("soon") stop doing business with SyriaTel.
 
-##Specific Objectives
+## Specific Objectives
 * To determine which features determine if a customer will churn
  * To increase the recall score to minimize false negatives. 
  
