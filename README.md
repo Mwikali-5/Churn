@@ -43,3 +43,13 @@ The Gradient Boost Classifier was the best model overall since it had the highes
 1. The initial goal of achieving 80% accuracy is achieved by all the models that were fitted.
 2. Gradient Boost Classifier model provides the highest recall score of all the models.
 3. Customer service calls, international plan, total day charges are the features with the greatest importance.
+
+## Repository Guide
+The data used for the project can be found here [https://github.com/Mwikali-5/Churn/blob/main/bigml_59c28831336c6604c800002a.csv]
+
+The notebook that contains the project can be found here https://github.com/VictoriaBay/Life-Expectancy/blob/main/Multi_Linear_Regression_Project__Group_Goku.ipynb
+
+The presentation for this project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Churn.pdf]
+
+A Data Report for this project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Data%20Report_%20Churn.docx]
+
