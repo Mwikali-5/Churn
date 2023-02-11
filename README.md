@@ -47,7 +47,7 @@ The Gradient Boost Classifier was the best model overall since it had the highes
 ## Repository Guide
 The data used for the project can be found here [https://github.com/Mwikali-5/Churn/blob/main/bigml_59c28831336c6604c800002a.csv]
 
-The notebook that contains the project can be found here https://github.com/VictoriaBay/Life-Expectancy/blob/main/Multi_Linear_Regression_Project__Group_Goku.ipynb
+The notebook that contains the project can be found here 
 
 The presentation for this project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Churn.pdf]
 
