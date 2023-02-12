@@ -54,9 +54,9 @@ The Gradient Boost Classifier was the best model overall since it had the highes
 ## Repository Guide
 The data used for the project can be found [here](https://github.com/Mwikali-5/Churn/blob/main/bigml_59c28831336c6604c800002a.csv)
 
-The notebook that contains the project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Churn.ipynb]
+The notebook that contains the project can be found [here](https://github.com/Mwikali-5/Churn/blob/main/Churn.ipynb)
 
-The presentation for this project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Churn.pdf]
+The presentation for this project can be found [here](https://github.com/Mwikali-5/Churn/blob/main/Churn.pdf)
 
-A Data Report for this project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Data%20Report_%20Churn.docx]
+A Data Report for this project can be found [here](https://github.com/Mwikali-5/Churn/blob/main/Data%20Report_%20Churn.docx)
 
