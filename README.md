@@ -44,10 +44,17 @@ The Gradient Boost Classifier was the best model overall since it had the highes
 2. Gradient Boost Classifier model provides the highest recall score of all the models.
 3. Customer service calls, international plan, total day charges are the features with the greatest importance.
 
+## Recommendations 
+1. The number of calls the customer makes to customer service should be reduced to two. If the customer calls once, the customer service agent should do a follow up to ensure the customer's issue has been fully resolved to avoid making the customer call back again.
+2. The customer service agents should be trained on how to treat, escalate and solve issues as soon as possible.
+3. The phone charges are high hence a high churn rate, the business should consider having payment plans for different customers so that one is charged according to the service they consume.
+4. The business should consider lowering or giving discounts for customers who have an international plan and also charge them per the service they use.
+
+
 ## Repository Guide
 The data used for the project can be found here [https://github.com/Mwikali-5/Churn/blob/main/bigml_59c28831336c6604c800002a.csv]
 
-The notebook that contains the project can be found here 
+The notebook that contains the project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Churn.ipynb]
 
 The presentation for this project can be found here [https://github.com/Mwikali-5/Churn/blob/main/Churn.pdf]
 
